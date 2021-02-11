@@ -2,5 +2,8 @@
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.9",
         "barryvdh/laravel-debugbar": "^3.5"
+    },
+    "require": {
+        "laravel-lang/lang": "~8.0"
     }
 }

@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'a6c92625a58e9f13d11bb8d60988e1ee1f80ce40',
+    'reference' => '203cbe38d0396c740dcdb45fe63fb8aba98e0e9f',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'a6c92625a58e9f13d11bb8d60988e1ee1f80ce40',
+      'reference' => '203cbe38d0396c740dcdb45fe63fb8aba98e0e9f',
     ),
     'barryvdh/laravel-debugbar' => 
     array (
@@ -244,6 +244,15 @@
       array (
       ),
       'reference' => '2ba9c8c862ecd5510ed16c6340aa9f6eadb4f31b',
+    ),
+    'laravel-lang/lang' => 
+    array (
+      'pretty_version' => '8.0.3',
+      'version' => '8.0.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3c4e73da36cfcbc82de286b82662b803299c72a4',
     ),
     'maximebf/debugbar' => 
     array (
