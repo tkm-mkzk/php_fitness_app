@@ -33,6 +33,7 @@ final class Versions
      * @internal
      */
     const VERSIONS          = array (
+  'laravel-lang/lang' => '8.0.3@3c4e73da36cfcbc82de286b82662b803299c72a4',
   'barryvdh/laravel-debugbar' => 'v3.5.2@cae0a8d1cb89b0f0522f65e60465e16d738e069b',
   'barryvdh/laravel-ide-helper' => 'v2.9.0@64a6b902583802c162cdccf7e76dc8619368bf1a',
   'barryvdh/reflection-docblock' => 'v2.0.6@6b69015d83d3daf9004a71a89f26e27d27ef6a16',
@@ -97,7 +98,7 @@ final class Versions
   'symfony/translation-contracts' => 'v2.3.0@e2eaa60b558f26a4b0354e1bbb25636efaaad105',
   'symfony/var-dumper' => 'v5.2.3@72ca213014a92223a5d18651ce79ef441c12b694',
   'voku/portable-ascii' => '1.5.6@80953678b19901e5165c56752d087fc11526017c',
-  '__root__' => 'dev-main@a6c92625a58e9f13d11bb8d60988e1ee1f80ce40',
+  '__root__' => 'dev-main@203cbe38d0396c740dcdb45fe63fb8aba98e0e9f',
 );
 
     private function __construct()
